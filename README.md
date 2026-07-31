@@ -12,6 +12,9 @@ My most recent project is a CLI chatbot built in Python that recommends hidden n
 
 📊 I am currently advancing my data skills at [Turing College](https://www.turingcollege.com/) where I was admitted in the top 10% of applicants and awarded a scholarship.  
 
+I have delivered projects — each reviewed one-on-one by industry professionals — covering SQL for data querying and extraction, exploratory data analysis and data wrangling with Pandas, data visualisation using Matplotlib, Seaborn, and Plotly, dashboard design and data storytelling in Tableau, statistical modelling through logistic regression, and experimental design via A/B testing. Together these form a solid end-to-end analytics foundation.  
+I am expected to complete the programme by September 2026.
+
 I hold a Microsoft PL-300 Power BI Data Analyst Associate certification.
 
 <!--
