@@ -14,15 +14,21 @@ My view on AI: it can write the code and run the numbers, but the analyst still 
 <br>  
 <br>
 
-### Key Projects & AI Workflows:   
+### Key Projects & AI Workflows   
 
-🧬 Socio-Technical Typology Cluster Analysis (Turing Capstone): Built a custom data pipeline to analyse 13 Eurostat datasets across 30 European countries (EU-27 + EFTA). Applied K-Means clustering to map out distinct national profiles across AI integration, human capital, healthcare access, and environmental sustainability.  
+🎯 **End-to-end life insurance lead scoring project**  
+Generated 8,000 synthetic life insurance leads in Python, scored and tiered them with DuckDB SQL, and built a 3-page Power BI dashboard that shows sales which leads to call first.
 
-🤖 LLM-Powered CLI Chatbot: Developed a Python-based travel chatbot using the Anthropic API that recommends hidden natural destinations across Europe in local languages, a practical deep-dive into prompt engineering and API integration.  
+🧬 **Socio-Technical Typology Cluster Analysis (Turing Capstone)**    
+Built a custom data pipeline to analyse 13 Eurostat datasets across 30 European countries (EU-27 + EFTA). Applied K-Means clustering to map out distinct national profiles across AI integration, human capital, healthcare access, and environmental sustainability.  
+
+🤖 **LLM-Powered CLI Chatbot**    
+Developed a Python-based travel chatbot using the Anthropic API that recommends hidden natural destinations across Europe in local languages, a practical deep-dive into prompt engineering and API integration.  
 <br>  
 
 I'm looking for data analyst and decision science roles where commercial judgement counts as much as technical skill.  
-Curious by nature.  Sharpened by experience.  Always learning.  Feel free to connect. 🤝  
+Curious by nature.  Sharpened by experience.  Always learning.  
+Feel free to connect. 🤝  
 
 
 
