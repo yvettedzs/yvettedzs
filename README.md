@@ -16,13 +16,19 @@ My view on AI: it can write the code and run the numbers, but the analyst still 
 
 ### Key Projects & AI Workflows   
 
-🎯 **End-to-end life insurance lead scoring project**  
+📊 **Marketing Measurement & Budget Allocation Case Study** [Repo](https://github.com/yvettedzs/nordvik-marketing-measurement)  
+Built a simulated 2-year, 6-market dataset for a fictional premium D2C brand and ran a geo holdout (synthetic control) and a discount pre/post analysis in Python, with orders as the outcome. The work showed that Meta’s reported ROAS could not be confirmed as profitable and that a spring promotion cost about €1.2M in margin, and it ended in a one-page budget memo with a metric dictionary.
+
+🏷️ **GTM + GA4 Tracking Implementation Demo**  [Repo](https://github.com/yvettedzs/nordvik-tracking-demo)  
+Set up a Google Tag Manager container and GA4 property for a fictional demo shop, with five data layer events following GA4 e-commerce naming, a market selector and UTM link tests. Validated the setup in Tag Assistant and DebugView, and found a broken-UTM split and test-traffic contamination in the reports.
+
+🎯 **End-to-end life insurance lead scoring project**  [Repo](https://github.com/yvettedzs/life-insurance-lead-scoring)  
 Generated 8,000 synthetic life insurance leads in Python, scored and tiered them with DuckDB SQL, and built a 3-page Power BI dashboard that shows sales which leads to call first.
 
 🧬 **Socio-Technical Typology Cluster Analysis (Turing Capstone)**    
 Built a custom data pipeline to analyse 13 Eurostat datasets across 30 European countries (EU-27 + EFTA). Applied K-Means clustering to map out distinct national profiles across AI integration, human capital, healthcare access, and environmental sustainability.  
 
-🤖 **LLM-Powered CLI Chatbot**    
+🤖 **LLM-Powered CLI Chatbot** [Repo](https://github.com/yvettedzs/european-nature-chatbot)  
 Developed a Python-based travel chatbot using the Anthropic API that recommends hidden natural destinations across Europe in local languages, a practical deep-dive into prompt engineering and API integration.  
 <br>  
 
