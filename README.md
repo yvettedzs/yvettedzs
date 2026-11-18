@@ -15,9 +15,8 @@ My view on AI: it can write the code and run the numbers, but the analyst still 
 <br>
 
 ### Key Projects & AI Workflows   
-
-📊 **Marketing Measurement & Budget Allocation Case Study** [Repo](https://github.com/yvettedzs/nordvik-marketing-measurement)  
-Built a simulated 2-year, 6-market dataset for a fictional premium D2C brand and ran a geo holdout (synthetic control) and a discount pre/post analysis in Python, with orders as the outcome. The work showed that Meta’s reported ROAS could not be confirmed as profitable and that a spring promotion cost about €1.2M in margin, and it ended in a one-page budget memo with a metric dictionary.
+📊 Marketing Measurement & Budget Allocation Case Study [Repo](https://github.com/yvettedzs/nordvik-marketing-measurement) · [Live demo](https://yvettedzs.github.io/nordvik-marketing-measurement/demo/)  
+Built a simulated 2-year, 6-market dataset for a fictional premium D2C brand and ran a geo holdout (synthetic control) and a discount pre/post analysis in Python, with orders as the outcome. The work showed that Meta's reported ROAS could not be confirmed as profitable and that a spring promotion cost about €1.2M in margin, and it ended in a one-page budget memo with a metric dictionary. I then simulated 250,000 customer journeys and compared 8 attribution models against the simulation's true channel effects. The choice of model alone could flip the profit verdict: 5 of 8 models called Meta profitable when it was not, and all 8 called Affiliates unprofitable when it was. A 30-day window also saw only 26% of a year's orders. Finally, I brought the analysis into Claude. An MCP server answers questions using the agreed metric definitions. An MCP app opens a role-based dashboard inside Claude, with 5 views, 3 access levels and an audit log, so each role can click through the evidence behind the memo.
 
 🏷️ **GTM + GA4 Tracking Implementation Demo**  [Repo](https://github.com/yvettedzs/nordvik-tracking-demo)  
 Set up a Google Tag Manager container and GA4 property for a fictional demo shop, with five data layer events following GA4 e-commerce naming, a market selector and UTM link tests. Validated the setup in Tag Assistant and DebugView, and found a broken-UTM split and test-traffic contamination in the reports.
